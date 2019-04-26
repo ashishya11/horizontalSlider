@@ -8,6 +8,4 @@ $(document).ready(function () {
     //     interval: false,
     //     wrap: false
     // });
- let ul = document.querySelector('.scrollArea')
- targetLi = document.getElementById(liID);
 });
